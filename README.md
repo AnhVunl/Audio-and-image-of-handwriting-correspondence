@@ -1,4 +1,4 @@
-# image_sound_handwritingsync
+# Predict sound and handwriting image correspondence
 
 Steps of this analysis include
 
